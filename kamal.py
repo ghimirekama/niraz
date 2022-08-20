@@ -40,3 +40,7 @@ if "dipesh" not in mylist:
         print("a is greater than b")
 
         # while loop
+def my_function():
+  print("Hello from a function")
+
+my_function()
